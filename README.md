@@ -9,7 +9,7 @@
 ### 🛠 Skills  
 - **Languages:** Python | Java | JavaScript | SQL  
 - **Frameworks & Libraries:** Flask | React | Node.js  
-- **Tools & Platforms:** Git | Docker | VS Code | MySQL  
+- **Tools & Platforms:** Github | VS Code | MySQL  
 - **Core Concepts:** Steganography | Encryption | Web Security | DSA  
 
 ---
