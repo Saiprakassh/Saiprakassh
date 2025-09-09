@@ -108,16 +108,6 @@
 ### 🏫 **Secondary Education** | *SSC Board* | 2020
 **CGPA: 10.0**
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiprakassh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprakassh&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saiprakassh&theme=radical)
-
 </div>
 
 ## 🌐 Portfolio Showcase
