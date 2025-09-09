@@ -92,21 +92,6 @@
 - 🔐 **Introduction to Cybersecurity** - Cisco Networking Academy | Aug 2025
 - 🐍 **Python Essentials 1** - Cisco Networking Academy | Dec 2024
 
-### **📈 Key Achievements**
-- 💻 **200+ Problems Solved** on CodeChef - Enhanced algorithmic thinking
-- 🎓 **8.52 CGPA** in B.Tech Computer Science (Cyber Security)
-- 📊 **93.3% in Intermediate** | **Perfect 10.0 CGPA in Secondary**
-
-## 📚 Education Journey
-
-### 🎓 **B.Tech Computer Science (Cyber Security)** | *MLR Institute of Technology* | 2022-2026
-**CGPA: 8.52** | *Current: Final Year*
-
-### 📖 **Intermediate (MPC)** | *TSBIE Board* | 2020-2022
-**Percentage: 93.3%**
-
-### 🏫 **Secondary Education** | *SSC Board* | 2020
-**CGPA: 10.0**
 
 </div>
 
