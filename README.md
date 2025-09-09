@@ -50,7 +50,7 @@
 </div>
 
 ## 🌐 Portfolio
-🎨 **[Live Portfolio Website](https://portfolio-website-git-main-chigullapally-sai-prakashs-projects.vercel.app/)** - Modern 3D animations & interactive design
+🎨 **[Live Portfolio Website](https://portfolio-website-git-main-chigullapally-sai-prakashs-projects.vercel.app/)** -Engaging Design & Responsive Experience
 
 ## 📫 Contact
 📧 [saisai96161@gmail.com](mailto:saisai96161@gmail.com) | 📱 +91-6301534774 | 📍 Hyderabad, India
