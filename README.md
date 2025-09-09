@@ -44,13 +44,13 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 **Blockchain Product Authentication System** | *Jul 2025 - Present*
+# 🔗 **Blockchain Product Authentication System** | *Jul 2025 - Present*
 
-### 🔒 **Steganography Security Tool** | *Dec 2024 - May 2025*
+#🔒 **Steganography Security Tool** | *Dec 2024 - May 2025*
 
-### 📊 **HR Analytics Dashboard** | *June 2025 - Aug 2025*
+# 📊 **HR Analytics Dashboard** | *June 2025 - Aug 2025*
 
-### 🌍 **Multilingual Translation Studio** | *Jul 2024 - Dec 2024*
+#🌍 **Multilingual Translation Studio** | *Jul 2024 - Dec 2024*
 
 
 ## 📫 Let's Connect!
