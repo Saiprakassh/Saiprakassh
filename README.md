@@ -42,66 +42,16 @@
 - 🔐 **Network Security** | **Cryptography** | **Steganography** | **AES Encryption**
 - 💻 **Data Structures** | **OOP Concepts** | **Operating Systems** | **DBMS**
 
-## 💼 Professional Experience
-
-### 🚀 **Frontend Developer Intern** | *Gwing Software Technologies* | Oct 2024 - Dec 2024
-- ⚡ **30% faster development** with React.js proficiency
-- 🚀 **20% improved page load time** through optimized UI components
-- 🏗️ Enhanced distributed application design understanding
-
-### 🐍 **Python Development Intern** | *Codsoft* | Sep 2024 - Oct 2024
-- 📚 Mastered Python libraries and debugging best practices
-- 🎨 **40% better usability** with enhanced GUI interfaces
-- 🛠️ Applied Python libraries for user-friendly application development
-
 ## 🚀 Featured Projects
 
 ### 🔗 **Blockchain Product Authentication System** | *Jul 2025 - Present*
-**Technologies:** `Blockchain` `Ethereum` `Python` `JavaScript` `QR Code Libraries`
-- 🛡️ **Tamper-proof verification** system with unique QR codes
-- 📊 **Smart contracts** for automated product registration
-- 🔄 **Real-time verification** with immutable supply chain records
-- 🌐 **Decentralized storage** reducing counterfeit risks
 
 ### 🔒 **Steganography Security Tool** | *Dec 2024 - May 2025*
-**Technologies:** `Python` `OpenCV` `Tkinter` `AES-256` `Cryptography`
-- 🛡️ **Military-grade security** with double-layer AES-256 + Fernet encryption
-- 🎨 **Intuitive drag-and-drop GUI** with real-time feedback
-- 📁 **Covert communication** through encrypted image steganography
-- ⚡ **Seamless user experience** across encoding/decoding operations
 
 ### 📊 **HR Analytics Dashboard** | *June 2025 - Aug 2025*
-**Technologies:** `Python` `Streamlit` `Plotly` `Matplotlib` `NumPy` `SQL`
-- 📈 **Interactive visualizations** for employee performance metrics
-- 📋 **Client-ready reports** with validated data accuracy
-- 🎯 **KPI tracking** for data-driven decision making
-- 📚 **Comprehensive documentation** for workflow replication
 
 ### 🌍 **Multilingual Translation Studio** | *Jul 2024 - Dec 2024*
-**Technologies:** `Python` `Tkinter` `Google Translate API`
-- 🗣️ **25+ language support** with text and speech translation
-- 📄 **Multi-format processing** (text, Word docs, audio files)
-- 💾 **Offline capability** with .txt and .mp3 export options
-- 🎯 **Real-time accuracy testing** against expected outputs
 
-## 🏆 Certifications & Achievements
-
-### **🏅 Recent Certifications**
-- 🥇 **SQL Basics** - HackerRank | Sep 2025
-- ☕ **Java Programming** - Simplilearn | Aug 2025
-- 🔐 **Introduction to Cybersecurity** - Cisco Networking Academy | Aug 2025
-- 🐍 **Python Essentials 1** - Cisco Networking Academy | Dec 2024
-
-
-</div>
-
-## 🌐 Portfolio Showcase
-
-### 🎨 **[Professional Portfolio Website](https://portfolio-website-git-main-chigullapally-sai-prakashs-projects.vercel.app/)**
-- ✨ **Modern 3D animations** with glassmorphism design
-- 📱 **Fully responsive** across all devices
-- 🎯 **Interactive elements** showcasing technical skills
-- 🚀 **Advanced animations** running at 60fps
 
 ## 📫 Let's Connect!
 
