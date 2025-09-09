@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisai96161@gmail.com)
 
 ## 🚀 Current Status
-- 🔍 **Final Year Student** with **8.52 CGPA** specializing in Cybersecurity
+- 🔍 **Final Year Student**  specializing in Cybersecurity
 - 💼 **Experienced Intern** in Frontend Development and Python Programming
 - 🌟 **200+ CodeChef Problems Solved**
 - 🎯 **Open to Software Development & Cybersecurity Opportunities**
@@ -58,7 +58,7 @@
 ---
 <div align="center">
 
-**🌟 Open to Software Development & Cybersecurity Opportunities!**
+**🌟  Thanks for visiting my profile! Feel free to explore my repositories. Open to Software Development & Cybersecurity Opportunities!**
 
 ![Visitor Count](https://profile-counter.glitch.me/Saiprakassh/count.svg)
 
