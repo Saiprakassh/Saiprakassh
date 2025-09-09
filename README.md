@@ -9,7 +9,7 @@
 
 ## 🚀 Current Status
 
-- 🔍 **Final Year Student** with **8.52 CGPA** specializing in Cybersecurity
+- 🔍 **Final Year Student** with  specializing in Cybersecurity
 - 💼 **Experienced Intern** in Frontend Development and Python Programming
 - 🌟 **Active Problem Solver** with 200+ CodeChef solutions
 - 🎯 **Open to Opportunities** in Software Development and Cybersecurity roles
@@ -159,7 +159,7 @@
 
 <div align="center">
 
-**🌟 Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
+**🌟 Thanks for visiting my profile! Feel free to explore my repositories.!**
 
 ![Visitor Count](https://profile-counter.glitch.me/Saiprakassh/count.svg)
 
