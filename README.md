@@ -4,7 +4,7 @@
 💡 Passionate about **Software Development | Cybersecurity | Blockchain**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chigullapally-sai-prakash-99b511277)
-[![Portfolio](https://portfolio-website-git-main-chigullapally-sai-prakashs-projects.vercel.app/?_vercel_share=wWrVmQ8IVDhrgOBMZCSBogYhqybYP3WQ)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-git-main-chigullapally-sai-prakashs-projects.vercel.app?_vercel_share=wWrVmQ8IVDhrgOBMZCSBogYhqybYP3WQ)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisai96161@gmail.com)
 
 ## 🚀 Current Status
